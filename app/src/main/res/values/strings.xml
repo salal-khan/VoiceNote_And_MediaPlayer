@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Voice Note</string>
+    <string name="title_activity_mp3player">Mp3player</string>
+</resources>
